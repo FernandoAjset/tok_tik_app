@@ -45,9 +45,9 @@ Para mantener un código limpio y fácil de mantener, hemos estructurado el proy
 
 A continuación, se muestran algunas capturas de pantalla de la aplicación:
 
-![Pantalla inicial de la aplicación](https://drive.google.com/uc?id=1azwsTFJfpxtW3yCu6p37iwCnYsQX7Ntk)
+![Pantalla inicial de la aplicación](https://resourcesdev.blob.core.windows.net/resources-web/proyectos/toktik1.jpg)
 
-![Escritura de mensaje del usuario](https://drive.google.com/uc?id=1v180Lv1y8Tlec1xVK8V5OmqY86AHIl9N)
+![Mas videos](https://resourcesdev.blob.core.windows.net/resources-web/proyectos/toktik2.jpg)
 
 ¡Gracias por visitar el repositorio de Tok Tik App!
 
